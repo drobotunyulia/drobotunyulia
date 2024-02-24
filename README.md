@@ -1,4 +1,6 @@
 ### 🌱 I’m currently studying at university
+.. image:: https://img.shields.io/badge/-yudrobotun8%40gmail.com-blue?style=social&logo=mail.ru
+   :target: mailto:yudrobotun8@gmail.com
 
 <!--
 **drobotunyulia/drobotunyulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
